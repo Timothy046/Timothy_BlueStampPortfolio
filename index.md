@@ -1,6 +1,9 @@
 # Fingerprint ID Safe with Keypad
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
+The Fingprint ID Safe with keypad is a two step-vertification safe that only unlocks after the right finerprint and right passcode. The biggest triumps is when the keypad worked.
+
+<!--Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+-->
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Timothy Y | Redwood High School | Engineering/Architecture | Incoming Junior
@@ -57,16 +60,93 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 -->
 ```c++
-void setup() {
-  // put your setup code here, to run once:
+#include <Keypad.h>
+#include <Servo.h>
+
+
+
+const int ROW_NUM = 4; //four rows
+const int COLUMN_NUM = 3; //three columns
+
+char keys[ROW_NUM][COLUMN_NUM] = { //Mapping the keypad
+  {'1','2','3'},
+  {'4','5','6'},
+  {'7','8','9'},
+  {'*','0','#'}
+};
+
+byte pin_rows[ROW_NUM] = {13, 12, 11, 10}; //connect to the row pinouts of the keypad
+byte pin_column[COLUMN_NUM] = {9, 8, 7}; //connect to the column pinouts of the keypad
+
+Keypad keypad = Keypad( makeKeymap(keys), pin_rows, pin_column, ROW_NUM, COLUMN_NUM );
+
+Servo myservo; //Defining servo - Works
+
+void setup(){ //Runs once (Basically start of program)
   Serial.begin(9600);
-  Serial.println("Hello World!");
-}
+  myservo.attach(3); //Linking the servo to digital pin #3 on the arduino 
+  Serial.println("Enter Password: ");
 
-void loop() {
-  // put your main code here, to run repeatedly:
 
 }
+//Random variable indentifiables here
+int password = "432016";
+String attempt = "";
+int i;
+String attempted_passcode;
+char key = 'j';
+String attempted_passcode_length;
+int delay_timer = "1000";
+int delay_timer_seconds = "1";
+
+
+
+void loop(){
+
+  char key = keypad.getKey(); //Saves inputed key into key variable
+  if (key) {
+
+    if (key == '*'){ //Checks for * (clear key)
+      Serial.println("Terminal cleared.");
+      attempted_passcode = "";
+    }
+    else if (key == '#'){ //Checks for # (answer key)
+      Serial.println("Password entered");
+      if (attempted_passcode == password) { //Check for correct password
+        Serial.println("Password correct.");
+        attempted_passcode = "";
+        //SERVO CODE HERE
+
+        myservo.write(180);
+        delay(7000);
+        myservo.write(93);
+
+        //GLITCH WITH SERVOS
+
+      }
+      else{
+        Serial.println("Password incorrect.");
+        attempted_passcode = "";
+        //COULD ADD DEALY TIME FOR FUNNYS
+        delay_timer = delay_timer + "1000";
+        delay_timer_seconds = delay_timer_seconds + "1";
+        delay(delay_timer);
+
+
+      }
+        
+      
+    }
+    else{
+
+      attempted_passcode = attempted_passcode + key;
+      Serial.println(attempted_passcode);
+    }
+
+  }
+
+}
+
 ```
 
 # Bill of Materials
