@@ -28,17 +28,11 @@ For your final milestone, explain the outcome of your project. Key details to in
 -->
 
 # Second Milestone
-<!--
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
--->
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yBwTkTPtsGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Hello, my name is Timothy. I am a rising Junior at Redwood High School. My project is the Fingerprint ID and Keypad Safe. This is my second milestone video. My second milestone involves connecting the fingerprint sensor to the arduino and writing the code for the sensor for it to read and enroll fingerprints while interacting with the matrix keypad. The fingerprint sensor has 6 wires however 4 are in use while the other two are unnecessary for my arduino. Pins 1-4 are in use shown by the image below. The fingerprint sensor had small female end jumper wires that I had to cut off, strip the wire, and to connect it to a set of jumper wires for the sensor to connect to the arduino. I soldered the ends of the wire and soldered a heat shrink to protect the wires. 1 wire connects to power, 1 connects to GND, and the other 2 wires connect to 2 digital pins. For my code, it prompts you to enter a correct passcode. If the incorrect passcode is entered a delay increases by 1 second each time you enter an incorrect passcode. The * key is to clear the passcode. The # key is to enter the passcode. After entering the passcode, it asks you to press # to enroll a new fingerprint and any other key to continue to unlock the safe. After the right fingerprint is detected, pressing the * key unlocks/locks the safe which the turning of the servo represents. My original arduino failed to upload and after learning to debug and troubleshoot the arduino it was deemed broken beyond return. I replaced my arduino with another and worked on debugging the code. I had a lot of problems with the code from it not reading fingerprints and involving it with the matrix keypad. My next milestone is to add the LCD as a modification and assemble the box. 
+
 # First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XJNsLsL8X4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
