@@ -1,3 +1,5 @@
+// If you are a bluestamp student wanting to use my code for your own project, I challenge you to not do that and make your own code instead. 
+// If you don't you are the biggest bozo in history.
 #include <Keypad.h>
 #include <Servo.h>
 #include <Adafruit_Fingerprint.h>
