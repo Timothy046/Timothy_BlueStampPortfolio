@@ -501,11 +501,22 @@ int getFingerprintIDez() {
 |:--:|:--:|:--:|:--:|
 | Adurino Uno 3 | Uploading code and giving components instructions | $27.60 | <a href="https://store-usa.arduino.cc/products/arduino-uno-rev3?gclid=CjwKCAjw-7OlBhB8EiwAnoOEkxEuGwotRACHO_QYAijXTCNR0ZDUdMW3TlStgB1GqO52OCNphp-z4BoCQ1IQAvD_BwE"> Link </a> |
 |Batteries|Powering my circuit|$13.21 for 20 batteries|<a href ="https://www.amazon.com/AmazonBasics-Volt-Performance-Alkaline Batteries/dp/B081FGSWTJ/ref=asc_df_B081FGSWTJ/?tag=&linkCode=df0&hvadid=416944218634&hvpos=&hvnetw=g&hvrand=11447828433058676336&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-924846380527&ref=&adgrpid=97669129567&th=1"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Servo | Locking/Unlocking the box | $15.99 | <a href="https://www.amazon.com/Hosyond-MG996R-Digital-Motors-Helicopter/dp/B0BYD9M1P3/ref=sr_1_2_sspa?keywords=mg996r%2Bservo%2Bmotor&qid=1689102344&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"> Link </a> |
 |:--:|:--:|:--:|:--:|
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-
+|:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+|:--:|:--:|:--:|:--:|
 <!--
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
