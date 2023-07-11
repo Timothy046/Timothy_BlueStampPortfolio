@@ -55,6 +55,8 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 -->
 ```c++
+// If you are a bluestamp student wanting to use my code for your own project, I challenge you to not do that and make your own code instead. 
+// If you don't you are the biggest bozo in history.
 #include <Keypad.h>
 #include <Servo.h>
 #include <Adafruit_Fingerprint.h>
