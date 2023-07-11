@@ -47,7 +47,7 @@ Hello, my name is Timothy. I am a rising Junior at Redwood High School. My proje
 My starter project is the usless box. When you activate the lever on the top, an arm comes out of the flap in the box to push the lever back in its orginal place. My project contains motor, resistors, arm, control switch, and snap switch. Once the control switch is activated, the arm releases the snap switch and hits the contol switch which allows current to flow backwards. The current moves the arm back to its orginal position. My project also contains a LED, however the LED was soldered on incorrectly and the solder was to little to remove causing the project to not have an LED. 
 
 # Schematics 
-
+![Headstone Image](BSE_Fingerprint_ID_Safe_with_Keypad_Project_Keypad_Schematics.jpeg)
 BSE_Fingerprint_ID_Safe_with_Keypad_Project_Keypad_Schematics.jpeg
 <!--
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
