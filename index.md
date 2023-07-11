@@ -499,7 +499,7 @@ int getFingerprintIDez() {
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Adurino Uno 3 | Uploading code and giving compentes instructions | $27.60 | <a href="https://store-usa.arduino.cc/products/arduino-uno-rev3?gclid=CjwKCAjw-7OlBhB8EiwAnoOEkxEuGwotRACHO_QYAijXTCNR0ZDUdMW3TlStgB1GqO52OCNphp-z4BoCQ1IQAvD_BwE"> Link </a> |
+| Adurino Uno 3 | Uploading code and giving components instructions | $27.60 | <a href="https://store-usa.arduino.cc/products/arduino-uno-rev3?gclid=CjwKCAjw-7OlBhB8EiwAnoOEkxEuGwotRACHO_QYAijXTCNR0ZDUdMW3TlStgB1GqO52OCNphp-z4BoCQ1IQAvD_BwE"> Link </a> |
 |Batteries|Powering my circuit|$13.21 for 20 batteries|<a href ="https://www.amazon.com/AmazonBasics-Volt-Performance-Alkaline Batteries/dp/B081FGSWTJ/ref=asc_df_B081FGSWTJ/?tag=&linkCode=df0&hvadid=416944218634&hvpos=&hvnetw=g&hvrand=11447828433058676336&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-924846380527&ref=&adgrpid=97669129567&th=1"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
