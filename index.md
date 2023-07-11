@@ -48,7 +48,7 @@ My starter project is the usless box. When you activate the lever on the top, an
 
 # Schematics 
 ![Headstone Image](BSE_Fingerprint_ID_Safe_with_Keypad_Project_Keypad_Schematics.jpeg)
-![Headstone Image]()
+![Headstone Image](BSE_Fingerprint_ID_Safe_with_Keypad_Project_Servo_Schematic.png)
 ![Headstone Image]()
 <!--
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
