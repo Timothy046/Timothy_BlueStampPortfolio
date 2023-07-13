@@ -15,15 +15,9 @@ The Fingprint ID Safe with keypad is a two step-vertification safe that only unl
 -->
 
 # Final Milestone
-<!--
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
--->
+Hello, my name is Timothy. I am a rising Junior at Redwood High School. My project is the Fingerprint ID and Keypad Safe. This is my third milestone video. My front door lock inspired me to choose this project. My final milestone video includes sawing out my safe to fit components, fitting my circuit and components, polishing my code, shortening my fingerprint sensor wires, cutting unused wires, and creating a lock mechanism. Using my keypad I traced an area for the keypad and used a 3/16 drill bit to drill holes in each of the 4 corners making it easier to saw a small rectangle. I sawed a smaller area than my traced keypad to allow me to file the 4 sides for a perfect fit of the keypad. After polishing the area with sandpaper I hot glued the keypad to the safe box. For the fingerprint sensor, I used a caliper to measure the diameter of it to find the closest drill bit to that size. The fingerprint sensor was 0.9 inches wide. I found the closest drill bit which was 0.6 inches. After filing and polishing the fingerprint sensor fit perfectly. I used the nut that came with the sensor to secure it. I screwed in the lock mechanisms and hot glued the servo. I didn’t hot glue the arduino or battery to make room for modifications which is the next step. I plan to make a on/off button to save the battery life of the safe. I struggled with the lock mechanism and servo because it didn’t align properly, forcing the box to not be able to be closed. I remeasured the dimensions and realigned the lock mechanism and the servo. 
+
  <iframe width="560" height="315" src="https://www.youtube.com/embed/O8IVJ5OSWtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
