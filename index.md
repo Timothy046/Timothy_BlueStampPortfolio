@@ -9,10 +9,10 @@ The Fingprint ID Safe with keypad is a two step-vertification safe that only unl
 |:--:|:--:|:--:|:--:|
 | Timothy Y | Redwood High School | Engineering | Incoming Junior
 
-<!-- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](logo.svg)
--->
+
+![Headstone Image](BSE_headshot.pdf)
+
 
 # Modifcations
 
