@@ -16,9 +16,12 @@ The Fingprint ID Safe with keypad is a two step-vertification safe that only unl
 
 # Modifcations
 
-vid here
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kW-EjiF4DHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
+Hello, my name is Timothy. I am a rising Junior at Redwood High School. My project is the Fingerprint ID and Keypad Safe. This is my modification video. My modifications involve adding a button to the safe to turn the circuit on/off to save battery life and screwing down the batteries and arduino to make them secure. I used a caliper to measure the button’s diameter which was about 0.48 inches. I used a ½ inch drill bit and drilled a hole right next to the battery for the button. I then used the nut that came with the button to secure it. 
+I have learned c++, problem solving and troubleshooting methods, how to work with arduino, sawing, drilling, and soldering. 
+If I was to do my project from the beginning again, I would have the servo and lock mechanism at the very front of the box to prevent gaps when trying to open the safe when it's locked. I would’ve also placed my fingerprint sensor somewhere more convenient to read fingerprints. I would also add an LCD because instructions to use the safe are unclear. I would also add a chargeable battery pack with a usb charging cable sticking out of the box because if the batteries run out you can’t open the safe anymore. I would also move the enroll fingerprint code to after you enter the correct password and correct fingerprint (when you use the keys to turn the servo) for more security. 
+In the future I plan to add an LCD, and add functions to the keypad to change the password and enroll a new fingerprint without entering anything on the serial monitor. 
 
 # Final Milestone
 
