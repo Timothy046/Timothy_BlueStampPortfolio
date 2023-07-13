@@ -1,6 +1,6 @@
 # Fingerprint ID Safe with Keypad
 
-The Fingprint ID Safe with keypad is a two step-vertification safe that only unlocks after the right finerprint and right passcode are entered. This project was inspired by my front door lock.
+The Fingprint ID Safe with keypad is a two step-vertification safe that only unlocks after the right finerprint and right passcode are entered. This project was inspired by my front door lock which also had a fingerprint sensor and keypad. I really wanted to learn how these two components worked and how I can interact with them. 
 
 <!--Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 -->
