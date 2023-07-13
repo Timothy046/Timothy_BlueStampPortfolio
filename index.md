@@ -493,20 +493,14 @@ int getFingerprintIDez() {
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Adurino Uno 3 | Uploading code and giving components instructions | $27.60 | <a href="https://store-usa.arduino.cc/products/arduino-uno-rev3?gclid=CjwKCAjw-7OlBhB8EiwAnoOEkxEuGwotRACHO_QYAijXTCNR0ZDUdMW3TlStgB1GqO52OCNphp-z4BoCQ1IQAvD_BwE"> Link </a> |
-|Batteries|Powering my circuit|$13.21 for 20 batteries|<a href ="https://www.amazon.com/AmazonBasics-Volt-Performance-Alkaline Batteries/dp/B081FGSWTJ/ref=asc_df_B081FGSWTJ/?tag=&linkCode=df0&hvadid=416944218634&hvpos=&hvnetw=g&hvrand=11447828433058676336&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-924846380527&ref=&adgrpid=97669129567&th=1"> Link </a> |
-| Servo | Locking/Unlocking the box | $15.99 | <a href="https://www.amazon.com/Hosyond-MG996R-Digital-Motors-Helicopter/dp/B0BYD9M1P3/ref=sr_1_2_sspa?keywords=mg996r%2Bservo%2Bmotor&qid=1689102344&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"> Link </a>|
-|:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-|:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-|:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-|:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-|:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-|:--:|:--:|:--:|:--:|
+| Arduino Uno Rev3 | Giving instructions based on my code to my componentes | $27.60 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us)"> Link </a> |
+| Batteries | Powering the circuit | $13.21 for 20 batteries | <a href="https://www.amazon.com/AmazonBasics-Volt-Performance-Alkaline-Batteries/dp/B081FGSWTJ/ref=asc_df_B081FGSWTJ/?tag=&linkCode=df0&hvadid=416944218634&hvpos=&hvnetw=g&hvrand=2101351762748406605&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061320&hvtargid=pla-924846380527&ref=&adgrpid=97669129567&th=1"> Link </a> |
+| Fingerprint Sensor | Reading and Enrolling Fingerprints | $39.95 | <a href="https://www.adafruit.com/product/4651"> Link </a> |
+| Servo | Locking/Unlocking the box | $29.99 for 4 Servos | <a href="https://www.amazon.com/DaFuRui-Digital-Compatible-Arduino-Helicopter/dp/B09P18XNK2/ref=sr_1_1_sspa?hvadid=570524219995&hvdev=c&hvlocphy=9061320&hvnetw=g&hvqmt=e&hvrand=18296770684133917772&hvtargid=kwd-447605733594&hydadcr=2111_13453649&keywords=mg%2B996r%2Bservo&qid=1689264277&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"> Link </a> |
+| Keypad | Entering passwords | $6.50 | <a href="https://www.digikey.com/en/products/detail/adafruit-industries-llc/3845/9561537?utm_adgroup=General&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Zombie%20SKUs&utm_term=&utm_content=General&gclid=CjwKCAjwwb6lBhBJEiwAbuVUSvOt9s46nAPx71RDEf5XiSzZyPJHl4qRHrOUDGxnMld1eafvqqm11hoCGeQQAvD_BwE"> Link </a> |
+| L - Brackets | Lock Mechanism; Note: An L-Bracket that has more screw holes is better for this project. | $7.99 | <a href="https://www.amazon.com/Bracket-Fastener-Support-Furniture-Elimeta/dp/B0948JVYMP/ref=sr_1_1_sspa?crid=3DW05K8CJD80K&keywords=l+bracket+small+black+4+screw+holes&qid=1689264629&sprefix=l+bracket+small+black+4+screw+hol%2Caps%2C166&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+| Button | On/Off Switch | $0.99 | <a href="https://www.adafruit.com/product/1504#technical-details"> Link </a> |
+
 <!--
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
