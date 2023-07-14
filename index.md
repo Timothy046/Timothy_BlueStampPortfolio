@@ -10,8 +10,7 @@ The Fingprint ID Safe with keypad is a two step-vertification safe that only unl
 | Timothy Y | Redwood High School | Engineering | Incoming Junior
 
 
-
-![Headstone Image](headshot Medium.png)
+![Headstone Image](headshot_Medium.png)
 
 
 # Modifcations
