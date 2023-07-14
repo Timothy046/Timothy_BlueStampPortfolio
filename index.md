@@ -11,7 +11,7 @@ The Fingprint ID Safe with keypad is a two step-vertification safe that only unl
 
 
 
-![Headstone Image](BSE_headshot.pdf)
+![Headstone Image](headshot Medium.png)
 
 
 # Modifcations
